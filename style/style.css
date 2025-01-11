@@ -180,8 +180,15 @@ height: 41px ;
 border-radius: 8px;
 background: #5490f5;
 margin-top: 10px;
+border: none;
 
 }
+.box1-btn:hover{
+    background-color: #7fabf7;
+        transform: scale(1.1);
+    }
+
+
 .box2-btn{
 width: 122px;
 height: 41px ;
@@ -193,10 +200,14 @@ margin-top: 35px;
 width: 122px;
 height: 41px ;
 border-radius: 8px;
-background: rgb(255, 194, 57);
+background: #ffc239;
 margin-top: 40px;
+border: none;
 }
-
+.box3-btn:hover{
+    background-color:#f6d077 ;
+    transform: scale(1.1);
+}
 /* DR Younus */
 .Who-yonus{
     display: flex;
@@ -239,7 +250,7 @@ line-height: 24px;
 }
 
 .Dr-younus{
-    background-image: url(assets/quote-bg.png);
+    background-image: url(../assets/quote-bg.png);
     background-repeat: no-repeat;
     background-position: top left ;
 }
@@ -433,7 +444,7 @@ footer{
     margin-top: 80px;
     display: flex;
     justify-content: center;
-    align-items: baseline;
+    align-items: center;
 }
 
 
