@@ -326,9 +326,11 @@ width: 240px;
 border: 1px solid rgba(14, 14, 14, 0.15);
 border-radius: 16px;
 background: rgb(255, 255, 255);
+
 }
 .donate-1 h2{
     text-align: center;
+    margin-top: 15px;
 }
 
 .donate-2{
@@ -455,3 +457,8 @@ text-align: center;
     width: 1600px;
     height: 226px;
 }
+
+
+
+
+
